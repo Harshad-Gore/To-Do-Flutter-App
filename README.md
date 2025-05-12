@@ -12,10 +12,6 @@ TaskMaster is a beautifully designed todo list application built with Flutter. I
 - **Categories:** Active, Completed, and Important task views
 - **Beautiful UI:** Clean, modern interface with smooth animations
 
-## Screenshots
-
-[Screenshots will be added here]
-
 ## Installation
 
 ### Android
