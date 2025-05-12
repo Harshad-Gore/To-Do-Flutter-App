@@ -38,7 +38,7 @@ TaskMaster is a beautifully designed todo list application built with Flutter. I
             <img src="screenshots/Screenshot_20250512_231147.jpg" alt="Trash Bin" width="250"/><br/>
             <b>Trash Bin</b>
         </td>
-        <td align="centre">
+        <td align="center">
             <img src="screenshots/Screenshot_20250512_232437.jpg" alt="Trash Bin" width="250"/><br/>
             <b>Task Expiry</b>
         </td>
