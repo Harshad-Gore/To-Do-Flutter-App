@@ -14,7 +14,11 @@ TaskMaster is a beautifully designed todo list application built with Flutter. I
 
 ## Screenshots
 
-[Screenshots will be added here]
+| Home Screen | Add Task | Task Details | Trash | Settings |
+|:-----------:|:--------:|:------------:|:-----:|:--------:|
+| ![Home Screen](screenshots/Screenshot_20250512_231117.jpg) | ![Add Task](screenshots/Screenshot_20250512_231120.jpg) | ![Task Details](screenshots/Screenshot_20250512_231125.jpg) | ![Trash](screenshots/Screenshot_20250512_231131.jpg) | ![Settings](screenshots/Screenshot_20250512_231147.jpg) |
+
+> _Screenshots are located in the `screenshots/` directory. More coming soon!_
 
 ## Installation
 
