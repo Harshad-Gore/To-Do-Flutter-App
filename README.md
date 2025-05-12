@@ -14,11 +14,33 @@ TaskMaster is a beautifully designed todo list application built with Flutter. I
 
 ## Screenshots
 
-![Active Tasks](screenshots/Screenshot_20250512_231117.jpg)
-![Completed Tasks](screenshots/Screenshot_20250512_231120.jpg)
-![Important Tasks](screenshots/Screenshot_20250512_231125.jpg)
-![Task Details](screenshots/Screenshot_20250512_231131.jpg)
-![Trash Bin](screenshots/Screenshot_20250512_231147.jpg)
+<table>
+    <tr>
+        <td align="center">
+            <img src="screenshots/Screenshot_20250512_231117.jpg" alt="Active Tasks" width="250"/><br/>
+            <b>Active Tasks</b>
+        </td>
+        <td align="center">
+            <img src="screenshots/Screenshot_20250512_231120.jpg" alt="Completed Tasks" width="250"/><br/>
+            <b>Completed Tasks</b>
+        </td>
+        <td align="center">
+            <img src="screenshots/Screenshot_20250512_231125.jpg" alt="Important Tasks" width="250"/><br/>
+            <b>Important Tasks</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="screenshots/Screenshot_20250512_231131.jpg" alt="Task Details" width="250"/><br/>
+            <b>Task Details</b>
+        </td>
+        <td align="center">
+            <img src="screenshots/Screenshot_20250512_231147.jpg" alt="Trash Bin" width="250"/><br/>
+            <b>Trash Bin</b>
+        </td>
+        <td></td>
+    </tr>
+</table>
 
 ## Installation
 
