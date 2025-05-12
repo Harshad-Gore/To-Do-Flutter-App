@@ -57,7 +57,7 @@ TaskMaster is a beautifully designed todo list application built with Flutter. I
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/TaskMaster.git
+git clone https://https://github.com/Harshad-Gore/To-Do-Flutter-App.git
 ```
 
 2. Install dependencies
